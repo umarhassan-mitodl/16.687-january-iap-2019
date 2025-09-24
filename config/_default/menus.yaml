@@ -1,0 +1,51 @@
+leftnav:
+- identifier: 2b0ed8a1-6726-647c-c21b-e00357fe6848
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 88b807ca-0473-40dd-dd31-f87dd74285d0
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: c2504e57-7add-89f1-e0aa-62aa5722d22c
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 8d2be332-035a-18fd-c8c3-a274f8a7a4ff
+  name: Goals for Student Learning
+  pageRef: /pages/instructor-insights/goals-for-student-learning
+  parent: c2504e57-7add-89f1-e0aa-62aa5722d22c
+  weight: 40
+- identifier: ffb0ae74-b5d1-e9e9-00ca-688fb2a3f901
+  name: Offering an Intensive Learning Experience
+  pageRef: /pages/instructor-insights/offering-an-intensive-learning-experience
+  parent: c2504e57-7add-89f1-e0aa-62aa5722d22c
+  weight: 50
+- identifier: 224abcd0-236b-b1b5-83d9-2af3439f7271
+  name: Engaging Students in a Large Lecture
+  pageRef: /pages/instructor-insights/engaging-students-in-a-large-lecture
+  parent: c2504e57-7add-89f1-e0aa-62aa5722d22c
+  weight: 60
+- identifier: f9501b13-1d57-0e8d-42e6-1a85a047b173
+  name: Using a Spiraling Curriculum to Teach Complex Material
+  pageRef: /pages/instructor-insights/using-a-spiraling-curriculum-to-teach-complex-material
+  parent: c2504e57-7add-89f1-e0aa-62aa5722d22c
+  weight: 70
+- identifier: 89b102e1-1180-315b-9329-1f536d633592
+  name: Inviting Students into the Aviation Community
+  pageRef: /pages/instructor-insights/inviting-students-into-the-aviation-community
+  parent: c2504e57-7add-89f1-e0aa-62aa5722d22c
+  weight: 80
+- identifier: 0f15a77e-e7fc-3cd9-6a00-456761f2ccc1
+  name: 'Course Iteration: Considering an Extension'
+  pageRef: /pages/instructor-insights/course-iteration-considering-an-extension
+  parent: c2504e57-7add-89f1-e0aa-62aa5722d22c
+  weight: 90
+- identifier: 24cd8438-c1d2-e3d6-7d52-602af43cbf1c
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 100
+- identifier: 2e836fac-1173-eb90-83c9-5e7d58ba5432
+  name: Class Videos
+  pageRef: /video_galleries/class-videos
+  weight: 110

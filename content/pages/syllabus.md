@@ -35,11 +35,11 @@ Course Objectives
 Resources
 ---------
 
-{{% resource_link "267a8766-c3f7-4bc1-8462-869371328af0" "FAA Pilot’s Handbook of Aeronautical Knowledge" %}}
+[FAA Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/)
 
-{{% resource_link "c6b24e9b-e066-40f4-92e1-c94e366afc20" "FAA Airplane Flying Handbook" %}}
+[FAA Airplane Flying Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook/)
 
-{{% resource_link "1f4b5a39-7e98-462c-8984-594f61951d38" "FAA Helicopter Flying Handbook" %}}
+[FAA Helicopter Flying Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/helicopter_flying_handbook/)
 
 Assessment
 ----------
